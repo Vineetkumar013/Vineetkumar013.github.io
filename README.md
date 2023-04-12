@@ -70,8 +70,8 @@ Contact section : id="contact"
  - For the GitHub calendar: class="react-activity-calendar" (the class is automatically included if you're using the react-github-calendar npm package)
  - The GitHub statistics images must have the following IDs:
  - GitHub streak stats : id="github-streak-stats" [Link to refer : https://github-readme-streak-stats.herokuapp.com/demo/]
- - GitHub top languages : id="github-top-langs" [Link to refer : https://github.com/anuraghazra/github-readme-stats]
- - GitHub stats card : id="github-stats-card" [Link to refer : https://github.com/anuraghazra/github-readme-stats]
+ - GitHub top languages : id="github-top-langs" [Link to refer : https://github.com/vineetkumar013/github-readme-stats]
+ - GitHub stats card : id="github-stats-card" [Link to refer : https://github.com/vineetkumar013/github-readme-stats]
  - Do not repeat any of the above class names and ID names for any other element.
 ### General guidelines
 - The system on cp.masaischool.com may take between 1-20 minutes for responding,
